@@ -8,3 +8,6 @@ npm-debug.log*
 build/
 # Environment variables
 .env
+
+# Local Netlify folder
+.netlify
