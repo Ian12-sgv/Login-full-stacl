@@ -1,6 +1,6 @@
 [build]
   functions = "netlify/functions"
-  publish = "front/build"
+  publish = "./front/dist"
 
 [[redirects]]
   from = "/*"
